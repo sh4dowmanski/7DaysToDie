@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002c858ad4f4181900b6aaceb10a3cd" playername="SchattenMannFährtSki" lastlogin="2023-05-29 19:12:59">
+    <acl platform="EOS" userid="00026d5a7d704350b762b80358901772" />
+    <bedroll pos="-3693,38,-1120" />
+  </player>
+  <player platform="EOS" userid="00026d5a7d704350b762b80358901772" playername="darkness0806" lastlogin="2023-05-29 19:12:57">
+    <acl platform="EOS" userid="0002c858ad4f4181900b6aaceb10a3cd" />
+    <bedroll pos="-3692,38,-1121" />
+  </player>
+</persistentplayerdata>
